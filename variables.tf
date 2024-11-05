@@ -29,4 +29,5 @@ variable "policy_document" {
       "Effect" : "Deny", "Action" : ["ram:UpdateRole", "ram:DeleteRole", "ram:AttachPolicyToRole", "ram:DetachPolicyFromRole"], "Resource" : "acs:ram:*:*:role/ResourceDirectoryAccountAccessRole"
     }]
   }
+  type = any
 }
