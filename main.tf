@@ -6,7 +6,7 @@ resource "alicloud_resource_manager_control_policy" "default" {
   policy_document     = jsonencode(var.policy_document)
 }
 
-// Enable the control policy
+# Enable the control policy
 data "alicloud_resource_manager_resource_directories" "default" {
 }
 
