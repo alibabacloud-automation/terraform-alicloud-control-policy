@@ -1,3 +1,5 @@
+## [1.1.2](https://github.com/alibabacloud-automation/terraform-alicloud-control-policy/compare/v1.1.1...v1.1.2) (2025-11-27)
+
 ## 1.1.1 (2025-02-10)
 
 - examples: improve the examples [GH-4](https://github.com/alibabacloud-automation/terraform-alicloud-control-policy/pull/4)
