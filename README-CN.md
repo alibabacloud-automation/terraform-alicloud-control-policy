@@ -87,7 +87,7 @@ No modules.
 
 ## 作者
 
-Created and maintained by Will(ppnjy@qq.com)
+Created and maintained by Alibaba Cloud Terraform Team(terraform@alibabacloud.com)
 
 ## 许可
 
